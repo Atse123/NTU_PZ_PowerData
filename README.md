@@ -6,6 +6,7 @@
 + VP-6_power_model.py: This program is designed to create a power model for the VP6 machine tool, which includes models for standby power, spindle power, XYZ axis power, and cutting power.
 + VP-6_power_prediction.py: This program is designed to predict the energy consumption of the VP6 machine tool during machining. It includes cutting parameters extracted from the NC-code, which are then applied to the power model.
 + CNC machine tool power model experiments: Spindle speed (500-10000) interval 500 rpm ,X,Y,Zup and Zdown feed rate (500-8000) interval 500 mm/min ,cutting experiment.
++ ![image](https://github.com/Atse123/NTU_PZ_PowerData/assets/130265101/d77fc642-440f-42e8-8185-d9722093067e)
 
 
 ---
